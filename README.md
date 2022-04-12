@@ -1,7 +1,7 @@
 # ~ About me! ~
 - Pronouns: She/her
 - Computer science student at St. Mother Teresa High School
-- Grade 10.
+- Grade 10
 - Canadian
 - Fluent in English and French
 
@@ -15,3 +15,4 @@
 
 # ~ Contact me ~
 <a href="mailto:hammelzaida@gmail.com?subject=%20"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
